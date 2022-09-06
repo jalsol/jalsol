@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://jalsol.xyz">
-    <img src="scaled_wpp.png" alt="jalsol banner" />
+    <img src="wpp.png" alt="wpp" id="wpp" />
   </a>
 </p>
 
