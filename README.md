@@ -16,8 +16,35 @@
 </p>
 
 <p align="center">
-  <strong><a href="https://jalsol.xyz">Website</a></strong> |
-  <strong><a href="https://linkedin.com/in/nqtr12">LinkedIn</a></strong> |
-  <strong><a href="https://discordapp.com/users/773302164923351042">Discord</a></strong> |
-  <strong><a href="https://soundcloud.com/jalsol">SoundCloud</a></strong>
+  <a href="https://jalsol.xyz">
+    <img
+      src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"
+    />
+  </a>
+
+  <a href="https://github.com/jalsol">
+    <img
+      src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"
+    />
+  </a>
+
+  <br />
+
+  <a href="https://linkedin.com/in/nqtr12">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+    />
+  </a>
+
+  <a href="https://discordapp.com/users/773302164923351042">
+    <img
+      src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"
+    />
+  </a>
+
+  <a href="https://soundcloud.com/jalsol">
+    <img
+      src="https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white"
+    />
+  </a>
 </p>
