@@ -4,7 +4,7 @@
   </a>
 </p>
 
-<h2 align="center">to shine (even) brighter.</h2>
+<h2 align="center"><i>to shine (even) brighter.</i></h2>
 
 <p align="center">
   <a href="https://github.com/jalsol">
