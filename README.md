@@ -9,14 +9,14 @@
 <p align="center">
   <a href="https://github.com/jalsol">
     <img
-      src="https://github-readme-stats-85ddse93e-rongronggg9.vercel.app/api?username=jalsol&show_icons=true&theme=github_dark&count_private=true"
+      src="https://github-readme-stats-63sy8pwun-jalsol.vercel.app/api?username=jalsol&show_icons=true&theme=github_dark&count_private=true"
       alt="jalsol's github stats"
     />
   </a>
   <br />
   <a href="https://github.com/jalsol">
     <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=jalsol&layout=compact&theme=github_dark"
+      src="https://github-readme-stats-63sy8pwun-jalsol.vercel.app/api/top-langs/?username=jalsol&layout=compact&theme=github_dark"
       alt="jalsol's most used language"
     />
   </a>
