@@ -9,7 +9,7 @@
 <p align="center">
   <a href="https://github.com/jalsol">
     <img
-      src="https://github-readme-stats-85ddse93e-rongronggg9.vercel.app/api?username=jalsol&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"
+      src="https://github-readme-stats-85ddse93e-rongronggg9.vercel.app/api?username=jalsol&show_icons=true&theme=github_dark&count_private=true"
       alt="jalsol's github stats"
     />
   </a>
