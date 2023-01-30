@@ -16,7 +16,7 @@
   <br />
   <a href="https://github.com/jalsol">
     <img
-      src="https://github-readme-stats-63sy8pwun-jalsol.vercel.app/api/top-langs/?username=jalsol&layout=compact&theme=github_dark"
+      src="https://github-readme-stats-63sy8pwun-jalsol.vercel.app/api/top-langs/?username=jalsol&layout=compact&theme=github_dark&hide=purebasic,jupyter+notebook"
       alt="jalsol's most used language"
     />
   </a>
